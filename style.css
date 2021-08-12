@@ -1,0 +1,45 @@
+.center{
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.bigHeading{
+    font-size: 70px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.bigbtn {
+  border-radius: 8px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  border: none;
+}
+#value{
+    font-size: 6rem;
+}
+
+body{
+    margin:50px;
+}
+
+.redclass{
+    color: red;
+}
+.greenclass{
+    color:green;
+}
